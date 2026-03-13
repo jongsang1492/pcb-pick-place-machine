@@ -2,9 +2,8 @@
 
 SolidWorks-based mechanical system design of a compact desktop pick-and-place machine for automated PCB assembly.
 
-<p align="center">
-  <img src="images/pnp_hero.png" alt="Desktop PCB Pick and Place Machine CAD Model" width="800">
-</p>
+
+<img width="584" height="487" alt="Screenshot 2026-03-12 at 9 47 19 PM" src="https://github.com/user-attachments/assets/ec4accfc-19db-4b8f-86a8-5b5a0b66a326" />
 
 ---
 
@@ -137,9 +136,8 @@ The final machine concept consisted of the following major subsystems:
 
 One of my main contributions was the design of the **rack-and-pinion Z-axis mechanism**, which drives the vertical motion of the pick head.
 
-<p align="center">
-  <img src="images/z_axis_mechanism.png" alt="Rack and Pinion Z-Axis Mechanism" width="600">
-</p>
+<img width="773" height="552" alt="Screenshot 2026-03-12 at 9 49 05 PM" src="https://github.com/user-attachments/assets/e0baba31-6d3a-4287-a77c-a00d6a0777a6" />
+
 
 This mechanism was designed to provide:
 
@@ -158,30 +156,52 @@ Key design considerations included:
 This was a strong mechanical design problem because the Z-axis had to integrate motion transmission, packaging constraints, and placement accuracy into a compact subsystem.
 
 ---
+---
+
+## Engineering Drawings
+
+The project also included the development of detailed engineering drawings for the final mechanical assembly.
+
+These drawings document the full machine layout and include orthographic and isometric views used for design verification and system documentation.
+
+<img width="552" height="392" alt="Screenshot 2026-03-12 at 9 54 11 PM" src="https://github.com/user-attachments/assets/18aa6e24-fe73-45a9-8b11-d72021a1d556" />
+
+
+The final assembly drawing includes:
+
+• isometric system overview  
+• top view layout of the gantry motion system  
+• front view illustrating vertical motion architecture  
+• dimensional references for machine footprint  
+
+These drawings were generated directly from the SolidWorks CAD assembly to document the final machine configuration.
+
 
 ## CAD Assembly and Mechanical Integration
 
-A major part of my work was building the **complete CAD assembly** of the machine in SolidWorks.
+A major part of my work was building the complete CAD assembly of the machine in SolidWorks.
 
-<p align="center">
-  <img src="images/pnp_cad_1.png" alt="Pick and Place CAD View 1" width="460">
-  <img src="images/pnp_cad_2.png" alt="Pick and Place CAD View 2" width="460">
-</p>
+### Isometric View
+<img width="512" height="422" alt="Screenshot 2026-03-12 at 9 51 52 PM" src="https://github.com/user-attachments/assets/9349da41-6399-429e-a049-441c26f17f19" />
 
-<p align="center">
-  <img src="images/pnp_cad_3.png" alt="Pick and Place CAD View 3" width="460">
-</p>
+
+### Front View
+<img width="496" height="326" alt="Screenshot 2026-03-12 at 9 52 22 PM" src="https://github.com/user-attachments/assets/02e27f69-eff8-48d1-b563-09564cc9757c" />
+
+
+### Top View
+<img width="472" height="391" alt="Screenshot 2026-03-12 at 9 52 37 PM" src="https://github.com/user-attachments/assets/099472e4-6422-4b4c-ac1d-0db92c1921fc" />
+
 
 The CAD work included:
 
-- integrating the main frame, motion systems, and pick head
-- assembling mechanism subsystems into one full machine model
-- verifying mechanical layout and part relationships
-- supporting engineering drawing generation for the final concept
+• integrating the main frame, motion systems, and pick head  
+• assembling mechanism subsystems into a complete machine model  
+• verifying mechanical layout and part relationships  
+• supporting engineering drawing generation for the final design  
 
-This work required not only modeling skill, but also system-level thinking about assembly hierarchy, motion relationships, and part packaging.
+This work required not only modeling skill, but also system-level thinking about assembly hierarchy, motion relationships, and component packaging.
 
----
 
 ## Bill of Materials (BOM) and Cost Development
 
